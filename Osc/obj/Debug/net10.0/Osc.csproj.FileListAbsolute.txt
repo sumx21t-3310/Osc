@@ -1,0 +1,11 @@
+/home/sumx21t/projects/Osc/Osc/bin/Debug/net10.0/Osc.deps.json
+/home/sumx21t/projects/Osc/Osc/bin/Debug/net10.0/Osc.dll
+/home/sumx21t/projects/Osc/Osc/bin/Debug/net10.0/Osc.pdb
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/Osc.GeneratedMSBuildEditorConfig.editorconfig
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/Osc.AssemblyInfoInputs.cache
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/Osc.AssemblyInfo.cs
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/Osc.csproj.CoreCompileInputs.cache
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/Osc.dll
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/refint/Osc.dll
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/Osc.pdb
+/home/sumx21t/projects/Osc/Osc/obj/Debug/net10.0/ref/Osc.dll

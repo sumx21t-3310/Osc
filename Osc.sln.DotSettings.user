@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cf70757_002Dda94_002D4913_002D963c_002Dbbea62f4a7c9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" IsLocked="True" Name="OscSendReceiveTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.OscSendReceiveTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Serialization.OscSerializerRoundTripTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Dispatcher.OscDispatcherTests.Dispatcher_calls_registered_handler&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Transport.LoopbackSocketTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Transport.Sockets.UdpSocketTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Transport.OscSendReceiveTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Transport.Sockets.LoopbackSocketTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82b7952c_002D3d58_002D4565_002D898d_002Dbfaf1a4c2e2f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="OscSendReceiveTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.OscSendReceiveTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB50A70A-370C-A799-543F-B11AD51AD5DA::net10.0::Osc.Test.Serialization.OscSerializerRoundTripTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
